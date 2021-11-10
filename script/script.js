@@ -179,11 +179,3 @@ arrows.addEventListener('click', function () {
 
   slide();
 });
-1. git init
-2. git config user.name ---
-3. git config user.email ---
-4. git add .
-5. git commit -m 'save'
-6. ssh-keygen
-7. git remote add 'asdasd'  https/
-8. git push 'asdasd' master
